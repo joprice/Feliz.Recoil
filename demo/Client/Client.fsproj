@@ -11,6 +11,8 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Shared\Shared.fsproj" />
+    <ProjectReference Include="..\..\src\Feliz.Recoil\Feliz.Recoil.fsproj" />
+    <ProjectReference Include="..\..\src\Feliz.Recoil.Bridge\Feliz.Recoil.Bridge.fsproj" />
   </ItemGroup>
   <Import Project="..\..\.paket\Paket.Restore.targets" />
 </Project>
