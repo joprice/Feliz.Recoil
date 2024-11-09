@@ -24,7 +24,7 @@ NUGET
       Fable.Browser.Event (>= 1.6) - restriction: >= netstandard2.0
       Fable.Core (>= 3.2.8) - restriction: >= netstandard2.0
       FSharp.Core (>= 4.7.2) - restriction: >= netstandard2.0
-    Fable.Core (3.7.1)
+    Fable.Core (4.3)
     Fable.Elmish (4.2)
       Fable.Core (>= 3.7.1) - restriction: >= netstandard2.0
       FSharp.Core (>= 4.7.2) - restriction: >= netstandard2.0
@@ -83,7 +83,7 @@ NUGET
       Fable.Browser.Event (>= 1.6) - restriction: >= netstandard2.0
       Fable.Core (>= 3.2.8) - restriction: >= netstandard2.0
       FSharp.Core (>= 4.7.2) - restriction: >= netstandard2.0
-    Fable.Core (3.7.1)
+    Fable.Core (4.3)
     Fable.Elmish (4.2) - restriction: >= netstandard2.0
       Fable.Core (>= 3.7.1) - restriction: >= netstandard2.0
       FSharp.Core (>= 4.7.2) - restriction: >= netstandard2.0
@@ -1110,7 +1110,7 @@ NUGET
       Fable.Browser.Event (>= 1.6) - restriction: >= netstandard2.0
       Fable.Core (>= 3.2.8) - restriction: >= netstandard2.0
       FSharp.Core (>= 4.7.2) - restriction: >= netstandard2.0
-    Fable.Core (3.7.1)
+    Fable.Core (4.3)
     Fable.Promise (3.2)
       Fable.Core (>= 3.7.1) - restriction: >= netstandard2.0
       FSharp.Core (>= 4.7.2) - restriction: >= netstandard2.0
@@ -1156,7 +1156,7 @@ NUGET
       Fable.Browser.Event (>= 1.6) - restriction: >= netstandard2.0
       Fable.Core (>= 3.2.8) - restriction: >= netstandard2.0
       FSharp.Core (>= 4.7.2) - restriction: >= netstandard2.0
-    Fable.Core (3.7.1)
+    Fable.Core (4.3)
     Fable.Elmish (4.2)
       Fable.Core (>= 3.7.1) - restriction: >= netstandard2.0
       FSharp.Core (>= 4.7.2) - restriction: >= netstandard2.0
@@ -1203,7 +1203,7 @@ NUGET
       Fable.Browser.Event (>= 1.6) - restriction: >= netstandard2.0
       Fable.Core (>= 3.2.8) - restriction: >= netstandard2.0
       FSharp.Core (>= 4.7.2) - restriction: >= netstandard2.0
-    Fable.Core (3.7.1)
+    Fable.Core (4.3)
     Fable.React.Types (18.3) - restriction: >= netstandard2.0
       Fable.Browser.Dom (>= 2.4.4) - restriction: >= netstandard2.0
       Fable.Core (>= 3.2.7) - restriction: >= netstandard2.0
